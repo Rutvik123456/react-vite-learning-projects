@@ -1,0 +1,32 @@
+.headcss{
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.container{
+    margin: 10px;
+}
+
+.col01{
+    margin: 10px;
+    font-weight: 500;
+    text-align: left;
+    
+}
+.col0101{
+    width: 100%;
+}
+
+.col02{
+    margin: 10px;
+    font-weight: 500;
+    text-align: left;    
+}
+.col0202{
+    width: 100%;
+}
+
+.col022{
+    margin: 10px;
+    text-align: right;
+}
